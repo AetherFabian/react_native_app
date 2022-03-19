@@ -13,7 +13,7 @@ This is how the loading screen looks
 
 The function of extract data and interpretate is working
 <div>
-<img src="https://user-images.githubusercontent.com/50721208/159110713-98ec30e6-2591-43cf-9ba7-b43fc8a0d75f.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/50721208/159110715-df2de5f0-1215-49f9-b904-8ec75fe6b408.jpeg" width="250">
 </div>
 
 ### Detail Character Screen
@@ -27,10 +27,5 @@ When you click on one of that containers, this is howit looksand  I used the asy
 
 This is a filter to found and spesific character and the user can access to the details of the character
 <div>
-<img src="https://user-images.githubusercontent.com/50721208/159110715-df2de5f0-1215-49f9-b904-8ec75fe6b408.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/50721208/159110713-98ec30e6-2591-43cf-9ba7-b43fc8a0d75f.jpeg" width="250">
 </div>
-
-
-
-
-
