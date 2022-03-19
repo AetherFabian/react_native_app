@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     container:{
         width: "100%",
         height: "100%",
-        backgroundColor: "#24282f",
+        backgroundColor: "#FFF0B2",
     },
     content:{
         flex:1,
@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
         shadowOpacity:0.25,
         shadowRadius: 3.84,
         elevation: 5,
-        backgroundColor: "#3c3e44",
+        backgroundColor: "#69C8ECFF",
         marginBottom:20,
     },
     image:{
@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
     property_name:{
         fontSize: 14,
         alignSelf: "flex-start",
-        color:"#8a8b8c",
+        color:"#25C44F",
         marginLeft:40,
     },
     property_value:{

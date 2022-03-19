@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { StyleSheet, Image, SafeAreaView } from "react-native";
 
 const image_url = 
-    "https://images-na.ssl-images-amazon.com/images/I/91MteSqsrJL.jpg";
+    "https://www.teahub.io/photos/full/354-3540090_rick-and-morty-wallpaper-phone.jpg";
 
 export default function SplashScreen({ navigation }){
     useEffect(() => {

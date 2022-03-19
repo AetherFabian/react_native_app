@@ -94,9 +94,10 @@ const styles = StyleSheet.create({
         alignContent: "flex-start",
         paddingLeft: 10,
         height: "100%",
-        backgroundColor: "#3c3e44",
+        backgroundColor: "#69C8ECFF",
         borderTopRightRadius: 10,
         borderBottomRightRadius: 10,
+        
     },
     character__name:{
         height: 50,
@@ -106,6 +107,7 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: "bold",
         textAlignVertical: "center",
+        
     },
     character__status: {
         flex:1,
@@ -138,7 +140,7 @@ const styles = StyleSheet.create({
         marginBottom:10,
     },
     Data__title: {
-        color: "#8a8b8c",
+        color: "#25C44F",
         fontSize: 13,
     },
     Data__location: {
